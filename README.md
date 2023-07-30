@@ -22,7 +22,7 @@ https://oauth.yandex.ru/authorize?response_type=token&client_id=1d0b9dd4d652455a
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone git@github.com:earlinn/homework_bot.git
+git clone git@github.com:Medbrat4669/homework_bot.git
 cd homework_bot
 ```
 
